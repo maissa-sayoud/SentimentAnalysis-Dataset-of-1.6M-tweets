@@ -8,7 +8,7 @@ Une fois les données nettoyées, nous avons procédé à une exploration approf
 
 Après avoir exploré les données, nous avons sélectionné plusieurs modèles de machine learning et de deep learning pour notre tâche de classification: 
 
-**-KNN (K-Nearest Neighbors)**
+**- KNN (K-Nearest Neighbors)**
 
 **- Decision Tree**
 

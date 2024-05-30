@@ -6,7 +6,15 @@ Nous avons commencé par une phase de nettoyage des données afin de garantir la
 
 Une fois les données nettoyées, nous avons procédé à une exploration approfondie pour comprendre la distribution des variables, les relations entre les caractéristiques et la variable cible. 
 
-Après avoir exploré les données, nous avons sélectionné plusieurs modèles de machine learning et de deep learning pour notre tâche de classification: **KNN (K-Nearest Neighbors) - Decision Tree - Random Forest - SVM (Support Vector Machine) - Logistic Regression - Naive Bayes - Neural Network and Deep Learning**. 
+Après avoir exploré les données, nous avons sélectionné plusieurs modèles de machine learning et de deep learning pour notre tâche de classification: 
+**-KNN (K-Nearest Neighbors)**
+**- Decision Tree**
+**- Random Forest** 
+**- SVM (Support Vector Machine)** 
+**- Logistic Regression**
+**- Naive Bayes** 
+**- Neural Networks** 
+**- Deep Learning**
 
 Nous avons ensuite entraîné les modèles sélectionnés et enfin, nous avons comparé les performances des différents modèles pour sélectionner celui offrant les meilleures performances pour notre tâche.
 
